@@ -1,2 +1,2 @@
 # icpdemo
-an icp demo by pcl
+an icp demo by PCL
